@@ -1,0 +1,19 @@
+{
+  "name": "lerna-independent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmupub/lerna-independent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmupub/lerna-independent/issues"
+  },
+  "homepage": "https://github.com/wmupub/lerna-independent#readme"
+}
