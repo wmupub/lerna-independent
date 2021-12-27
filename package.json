@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wmupub/lerna-independent/issues"
   },
-  "homepage": "https://github.com/wmupub/lerna-independent#readme"
+  "homepage": "https://github.com/wmupub/lerna-independent#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
