@@ -1,5 +1,5 @@
 {
-  "name": "@wmupub-lerna/components",
+  "name": "@mupub/components",
   "version": "1.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "wmupub <wmupub@163.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/wmupub/lerna-independent/issues"
-  }
+  },
+  "gitHead": "6178ad29463bc63283006a96552bb30f286b1325"
 }
